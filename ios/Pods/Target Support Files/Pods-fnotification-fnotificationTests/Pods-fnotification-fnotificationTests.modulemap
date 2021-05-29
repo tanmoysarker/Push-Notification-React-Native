@@ -1,6 +1,0 @@
-module Pods_fnotification_fnotificationTests {
-  umbrella header "Pods-fnotification-fnotificationTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
