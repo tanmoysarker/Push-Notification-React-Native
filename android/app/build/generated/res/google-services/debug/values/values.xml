@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">401286465191-50m8bpo96jre0u9gc6c0sg2q3ldf6elo.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">401286465191</string>
+    <string name="google_api_key" translatable="false">AIzaSyCEGNdPytPdfV8smPb6axMZJBzC5aAFnyc</string>
+    <string name="google_app_id" translatable="false">1:401286465191:android:68eee3311f6650a77f7d82</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCEGNdPytPdfV8smPb6axMZJBzC5aAFnyc</string>
+    <string name="google_storage_bucket" translatable="false">fnotification-19017.appspot.com</string>
+    <string name="project_id" translatable="false">fnotification-19017</string>
+</resources>

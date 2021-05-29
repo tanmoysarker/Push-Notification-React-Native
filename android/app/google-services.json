@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401286465191",
+    "project_id": "fnotification-19017",
+    "storage_bucket": "fnotification-19017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401286465191:android:68eee3311f6650a77f7d82",
+        "android_client_info": {
+          "package_name": "com.fnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401286465191-50m8bpo96jre0u9gc6c0sg2q3ldf6elo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEGNdPytPdfV8smPb6axMZJBzC5aAFnyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401286465191-50m8bpo96jre0u9gc6c0sg2q3ldf6elo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
